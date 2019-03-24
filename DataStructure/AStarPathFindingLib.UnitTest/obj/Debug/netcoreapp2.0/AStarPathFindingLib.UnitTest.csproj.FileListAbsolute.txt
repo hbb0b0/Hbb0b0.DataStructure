@@ -1,0 +1,17 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.deps.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.runtimeconfig.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.runtimeconfig.dev.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\bin\Debug\netcoreapp2.0\AStarPathFindingLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.AssemblyInfoInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.AssemblyInfo.cs
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.csprojAssemblyReference.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\AStarPathFindingLib.UnitTest\obj\Debug\netcoreapp2.0\AStarPathFindingLib.UnitTest.csproj.CopyComplete

@@ -1,0 +1,9 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\bin\Debug\netcoreapp2.0\RecursiveLib.deps.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\bin\Debug\netcoreapp2.0\RecursiveLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\bin\Debug\netcoreapp2.0\RecursiveLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\obj\Debug\netcoreapp2.0\RecursiveLib.csprojResolveAssemblyReference.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\obj\Debug\netcoreapp2.0\RecursiveLib.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\obj\Debug\netcoreapp2.0\RecursiveLib.AssemblyInfoInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\obj\Debug\netcoreapp2.0\RecursiveLib.AssemblyInfo.cs
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\obj\Debug\netcoreapp2.0\RecursiveLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib\obj\Debug\netcoreapp2.0\RecursiveLib.pdb

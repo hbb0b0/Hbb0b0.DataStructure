@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataStructureLib.LinkList&lt;T&gt;">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAgAAAAIAABAAAAAAAAAEAAQAAAAAAAARIABA=</HashCode>
+      <FileName>LinkList\LinkList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.LinkStack&lt;T&gt;">
+    <Position X="1.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAAAAAAAABAAAAAwAAACIAAAAAAAAAARACAA=</HashCode>
+      <FileName>Stack\LinkStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.Stack&lt;T&gt;">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAACABAAAgAgAAACCAAAIAgAQAABACAA=</HashCode>
+      <FileName>Stack\Stack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.SequenceList&lt;T&gt;">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAADAAAAAAAAAECARAIAgASAARIAgA=</HashCode>
+      <FileName>List\SequenceList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.SequenceQueue&lt;T&gt;">
+    <Position X="1" Y="13" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QABAEAAAABAAAAAABAAACAAAAAkCAAAIAAAQAABAACA=</HashCode>
+      <FileName>Queue\SequenceQueue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.LinkQueue&lt;T&gt;">
+    <Position X="5.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAECAAABAAAAAABAAACAAAAAkAAAAAAAAAAABAACA=</HashCode>
+      <FileName>Queue\LinkQueue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.HuffmanTree">
+    <Position X="8.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAEAFAAAAAQAQIAAAE=</HashCode>
+      <FileName>HuffmanTree\HuffermanTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.HuffmanTreeNode">
+    <Position X="8.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAACAAAACgAAEAgAABAAA=</HashCode>
+      <FileName>HuffmanTree\HuffmanTreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DataStructureLib.IListDS&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAABAAAAAAAAAEAAQAAAAAAAARIAAA=</HashCode>
+      <FileName>LinkList\IListDS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataStructureLib.IStack&lt;T&gt;">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAABAAAAAgAAACAAAAAAAAAAABACAA=</HashCode>
+      <FileName>Stack\IStack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataStructureLib.IQueue&lt;T&gt;">
+    <Position X="3.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAAAAAAAAAAAABAAAAAAAAAEAAAAAAAAAAABAACA=</HashCode>
+      <FileName>Queue\IQueue.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

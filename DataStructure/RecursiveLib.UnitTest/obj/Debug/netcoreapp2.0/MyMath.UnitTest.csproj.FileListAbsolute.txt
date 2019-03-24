@@ -1,0 +1,17 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.csprojResolveAssemblyReference.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.AssemblyInfoInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.AssemblyInfo.cs
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMath.UnitTest.deps.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMath.UnitTest.runtimeconfig.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMath.UnitTest.runtimeconfig.dev.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMath.UnitTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMath.UnitTest.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMathLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\bin\Debug\netcoreapp2.0\MyMathLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\RecursiveLib.UnitTest\obj\Debug\netcoreapp2.0\MyMath.UnitTest.pdb

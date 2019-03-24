@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataStructureLib.BinaryTree.Node&lt;T&gt;">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAAAABCAAAAQgAAAAAA=</HashCode>
+      <FileName>BinaryTree\Node.cs</FileName>
+      <NewMemberFileName>Common\Node.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.BinaryTree.BinaryTree&lt;T&gt;">
+    <Position X="3.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIhACAACgAAAAAAAAFQAEABAAAEBAAAAAAIEAAAgAAg=</HashCode>
+      <FileName>BinaryTree\BinaryTree.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DataStructureLib.BinaryTree.IBinaryTree&lt;T&gt;">
+    <Position X="7" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIhAAAAAAAAAAAAAAAAAEAAAAAEBAAAAAAIEAAAAAAg=</HashCode>
+      <FileName>BinaryTree\IBinaryTree.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataStructureLib.BinaryTree.Node&lt;T&gt;">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAAAAAAAAAAAABCAAAAQgAAAAAA=</HashCode>
+      <FileName>BinaryTree\Node.cs</FileName>
+      <NewMemberFileName>Common\Node.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.LinkList&lt;T&gt;">
+    <Position X="5.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAgAAAAIAABAAAAAAAAAEAAQAAAAAAAARIABA=</HashCode>
+      <FileName>LinkList\LinkList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.DataStructureException">
+    <Position X="0.5" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\LinkListException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DataStructureLib.IListDS&lt;T&gt;">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAABAAAAAAAAAEAAQAAAAAAAARIAAA=</HashCode>
+      <FileName>LinkList\IListDS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

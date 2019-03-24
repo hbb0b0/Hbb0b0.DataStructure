@@ -1,0 +1,9 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\bin\Debug\LinkStackApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\bin\Debug\LinkStackApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\bin\Debug\DataStructureLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\bin\Debug\DataStructureLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\obj\Debug\LinkStackApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\obj\Debug\LinkStackApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\obj\Debug\LinkStackApplication.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\obj\Debug\LinkStackApplication.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\LinkStackApplication\obj\Debug\LinkStackApplication.csprojAssemblyReference.cache

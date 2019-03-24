@@ -1,0 +1,11 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\bin\Debug\HuffmanTreeApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\bin\Debug\HuffmanTreeApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\bin\Debug\DataStructureLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\bin\Debug\DataStructureLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.HuffmanTreeWinform.resources
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.csproj.GenerateResource.Cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\HuffmanTreeApplication\obj\Debug\HuffmanTreeApplication.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\bin\Debug\BinaryTreeApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\bin\Debug\BinaryTreeApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\bin\Debug\DataStructureLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\bin\Debug\DataStructureLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\obj\Debug\BinaryTreeApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\obj\Debug\BinaryTreeApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\obj\Debug\BinaryTreeApplication.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\BinaryTreeApplication\obj\Debug\BinaryTreeApplication.csproj.CopyComplete

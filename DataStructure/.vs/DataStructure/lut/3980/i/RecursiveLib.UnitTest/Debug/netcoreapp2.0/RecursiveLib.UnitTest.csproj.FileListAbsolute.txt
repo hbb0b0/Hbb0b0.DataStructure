@@ -1,0 +1,14 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.deps.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.runtimeconfig.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.runtimeconfig.dev.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.AssemblyInfoInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.AssemblyInfo.cs
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib.UnitTest\Debug\netcoreapp2.0\RecursiveLib.UnitTest.pdb

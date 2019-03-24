@@ -1,0 +1,10 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\MyMathLib\Debug\netcoreapp2.0\MyMathLib.deps.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\MyMathLib\Debug\netcoreapp2.0\MyMathLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\MyMathLib\Debug\netcoreapp2.0\MyMathLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.AssemblyInfoInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.AssemblyInfo.cs
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\MyMathLib\Debug\netcoreapp2.0\MyMathLib.csprojAssemblyReference.cache

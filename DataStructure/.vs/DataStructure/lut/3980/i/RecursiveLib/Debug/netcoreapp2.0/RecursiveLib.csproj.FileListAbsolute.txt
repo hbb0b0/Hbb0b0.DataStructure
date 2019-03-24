@@ -1,0 +1,9 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.deps.json
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\b\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.AssemblyInfoInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.AssemblyInfo.cs
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\.vs\DataStructure\lut\0\i\RecursiveLib\Debug\netcoreapp2.0\RecursiveLib.pdb

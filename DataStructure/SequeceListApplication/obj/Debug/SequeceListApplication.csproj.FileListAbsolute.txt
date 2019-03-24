@@ -1,0 +1,11 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\bin\Debug\SequeceListApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\bin\Debug\SequeceListApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\bin\Debug\DataStructureLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\bin\Debug\Hbb0b0.Trace.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\bin\Debug\Hbb0b0.Trace.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\bin\Debug\DataStructureLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\obj\Debug\SequeceListApplication.exe
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\obj\Debug\SequeceListApplication.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\obj\Debug\SequeceListApplication.csproj.CoreCompileInputs.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\obj\Debug\SequeceListApplication.csproj.CopyComplete
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\SequeceListApplication\obj\Debug\SequeceListApplication.csprojAssemblyReference.cache

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataStructureLib.Graph.Node&lt;T&gt;">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAJAAAAAQAAAAAAA=</HashCode>
+      <FileName>Graph\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.Graph.GraphAdjMatrix&lt;T&gt;">
+    <Position X="3" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAACAAAAAAQCAAAKCCAEAAACQAAABAAAAAEIAA=</HashCode>
+      <FileName>Graph\GraphAdjMatrix.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.Graph.AdjacentListNode">
+    <Position X="1" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAIAAAA=</HashCode>
+      <FileName>Graph\AdjacentListNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.Graph.VertexNode&lt;T&gt;">
+    <Position X="6.25" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAQAAAAAAA=</HashCode>
+      <FileName>Graph\VertexNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.Graph.GraphAdjacentList&lt;T&gt;">
+    <Position X="3.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQBAIAAAAAAAAABQCAAAJAAAAAICCAACABAAAAAAAgA=</HashCode>
+      <FileName>Graph\GraphAdjacentList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DataStructureLib.Graph.IGraph&lt;T&gt;">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAAAAAAAACAAAAAAAAAAACAAAABAAAAAAAAA=</HashCode>
+      <FileName>Graph\IGraph.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\bin\Debug\DataStructureTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\bin\Debug\DataStructureTest.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\bin\Debug\DataStructureLib.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\bin\Debug\DataStructureLib.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\bin\Debug\DataStructureLib_Accessor.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\bin\Debug\DataStructureLib_Accessor.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\obj\Debug\ResolveAssemblyReference.cache
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\obj\Debug\DataStructureTest.dll
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\obj\Debug\DataStructureTest.pdb
+E:\hbb0b0\Dev\svn\hbb0b0Source\net\DataStructure.root\DataStructure\DataStructureTest\obj\Debug\DataStructureTest.csprojResolveAssemblyReference.cache

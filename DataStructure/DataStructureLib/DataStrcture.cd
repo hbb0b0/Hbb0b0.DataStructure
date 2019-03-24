@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataStructureLib.Stack&lt;T&gt;">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAACABAAAgAgAAACCAAAIAgAQAABACAA=</HashCode>
+      <FileName>Stack\Stack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructureLib.DataStructureException" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\LinkListException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.LinkList&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgAAAAIAABAAAAAAAAAEAQQAAAAAAAARIABA=</HashCode>
+      <FileName>LinkList\LinkList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DataStructureLib.Node&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAIAAAA=</HashCode>
+      <FileName>LinkList\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructureLib.LinkStack&lt;T&gt;">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAAAAAAAABAAAAAwAAACIAAAAAAAAAARACAA=</HashCode>
+      <FileName>LinkStack\LinkStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DataStructureLib.IStack&lt;T&gt;">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAABAAAAAgAAACAAAAAAAAAAABACAA=</HashCode>
+      <FileName>Stack\IStack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataStructureLib.IListDS&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAABAAAAAAAAAEAQQAAAAAAAARIAAA=</HashCode>
+      <FileName>LinkList\IListDS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
